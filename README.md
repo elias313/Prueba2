@@ -1,4 +1,6 @@
 # Prueba2
+
 Prueba 2 reinicio de todo
-1_Este curso no me importa
-2_No he podido almorzar (yo tampoco)
+1.Este curso no me importa
+2.No he podido almorzar (yo tampoco)
+3.No me puedo rendir crj
