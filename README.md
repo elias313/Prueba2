@@ -8,8 +8,7 @@ Prueba 2 reinicio de todo
 5gahahahahahah
 6kkkakakakakaka
 7.Me botaron de Pta Negra
-=======
 4.Hace mucho calor aqui en Lima
 5.Me botaron de Punta Negra
 6.Me debe importar esto
->>>>>>> Stashed changes
+7.vamos
